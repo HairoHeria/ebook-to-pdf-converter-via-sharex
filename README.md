@@ -1,5 +1,5 @@
 # Ebook to PDF Converter
-#### Video Demo: <https://youtu.be/ui5L4dlW5Pg>
+
 #### Description:
 This program automates the process of converting an ebook from a restricted ebook application into a single PDF file using Python. It takes screenshots of each page of the ebook, enhances the image quality, and compiles them into a PDF. This is particularly useful for ebooks that cannot be directly downloaded or exported. The need for this program arose from the desire for better annotation features, which are often more robust in PDF readers compared to ebook applications.
 

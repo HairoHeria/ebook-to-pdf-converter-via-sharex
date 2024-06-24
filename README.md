@@ -62,7 +62,8 @@ Below are Python packages used in the code that do not require separate installa
 ![Capture last region hotkey on ShareX](ShareX.png)
 
 If you have a different hotkey, make sure to change it appropriately within the code:
-[Code.png]
+
+![Change hotkey in the code](Code.png)
 
 2.Run the Program: Execute the Python script. You will be prompted to enter:
 

@@ -58,7 +58,9 @@ Below are Python packages used in the code that do not require separate installa
 
 ## How to Use
 1.Set Up ShareX: Configure ShareX to capture screenshots using a specific hotkey. Ensure the hotkey matches the one set in the code (in my case I set it to "F3").
+
 ![Capture last region hotkey on ShareX](ShareX.png)
+
 If you have a different hotkey, make sure to change it appropriately within the code:
 [Code.png]
 

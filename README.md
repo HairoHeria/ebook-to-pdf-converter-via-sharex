@@ -61,7 +61,9 @@ Below are Python packages used in the code that do not require separate installa
 
 ![Capture last region hotkey on ShareX](ShareX.png)
 
-If you have a different hotkey, make sure to change it appropriately within the code:
+Once you have set the last region hotkey, take a sample screenshot using ShareX, and press F3 to see if it captures the same region as intended.
+
+If you have a different hotkey setting, make sure to change it appropriately within the code:
 
 ![Change hotkey in the code](Code.png)
 
